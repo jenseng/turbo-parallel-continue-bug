@@ -1,0 +1,9 @@
+{
+  "name": "lol",
+  "scripts": {
+    "build": "echo lol; exit 1"
+  },
+  "dependencies": {
+    "wut": "*"
+  }
+}

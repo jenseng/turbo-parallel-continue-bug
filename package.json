@@ -1,0 +1,9 @@
+{
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "turbo": "^2.4.3-canary.3"
+  },
+  "packageManager": "npm@11.1.0"
+}

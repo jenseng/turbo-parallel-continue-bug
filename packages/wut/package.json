@@ -1,0 +1,6 @@
+{
+  "name": "wut",
+  "scripts": {
+    "build": "echo wut; exit 1"
+  }
+}
